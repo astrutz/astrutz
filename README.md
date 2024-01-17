@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex 🇷🇴
+- 👋 Hi, I’m Alex 🧙🏼‍♂️
 - 👀 I’m interested in new hot technologies in the JavaScript world 🚀
 - 🌱 I’m currently learning Angular and nx 💎
 - 💞️ I’m looking to collaborate on interesting web open source projects 🤝
